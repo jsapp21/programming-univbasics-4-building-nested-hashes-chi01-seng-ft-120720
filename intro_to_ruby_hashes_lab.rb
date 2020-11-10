@@ -1,5 +1,4 @@
 def base_hash
-  
   return hash = { 
     :railroads => {} 
   } 
